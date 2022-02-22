@@ -23,7 +23,7 @@ export default function Portfolio() {
       <div className='portfolio'>
         <div className='columns'>
           <div className={`column ${mode}`}>
-            <a href='https://github.com/milcroft/example-news-api'>
+            <a href='https://github.com/milcroft/nc-news-api'>
               <img
                 className={`responsive ${mode}`}
                 src={require('../../images/api.png')}
@@ -33,7 +33,7 @@ export default function Portfolio() {
             </a>
           </div>
           <div className={`column ${mode}`}>
-            <a href='https://github.com/milcroft/fe-nc-news-version-1'>
+            <a href='https://github.com/milcroft/fe-react-nc-news'>
               <img
                 className={`responsive ${mode}`}
                 src={require('../../images/news.png')}
@@ -44,7 +44,7 @@ export default function Portfolio() {
             </a>
           </div>
           <div className={`column ${mode}`}>
-            <a href='https://github.com/milcroft/koalas-project'>
+            <a href='https://github.com/milcroft/fridge-tracker'>
               <img
                 className={`responsive ${mode}`}
                 src={require('../../images/fridge-tracker-app.png')}
