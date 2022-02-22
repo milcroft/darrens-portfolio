@@ -1,0 +1,19 @@
+.scroll-to-top {
+  position: fixed;
+  bottom: 60px;
+  right: 40px;
+}
+.scroll--icon {
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 50px;
+}
+.scroll--icon.dark {
+  background-color: transparent;
+  color: var(--light-btn);
+}
+
+.scroll--icon.light {
+  background-color: transparent;
+  color: var(--dark-btn);
+}

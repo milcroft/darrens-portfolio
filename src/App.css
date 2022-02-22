@@ -1,0 +1,17 @@
+:root {
+  --light-text: black;
+  --dark-text: white;
+  --dark-background-color: #212831;
+  --secondary-dark-background-color: #353f4d;
+  --light-background-color: rgb(250, 250, 250);
+  --secondary-light-background-color: #fff;
+  --opacity-high: 0.87;
+  --opacity-medium: 0.6;
+  --dark-btn: #06d3ac;
+  --light-btn: #06d3ac;
+  --dark-btn-text: #fff;
+  --light-btn-text: #fff;
+  --opacity-text-high: 0.67;
+  --opacity-text-medium: 0.57;
+
+}

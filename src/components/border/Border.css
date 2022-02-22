@@ -1,0 +1,13 @@
+.border {
+  width: 100px;
+  height: 5px;
+  margin: 0 auto;
+  margin-bottom: 80px;
+  margin-top: 30px;
+}
+.border.light {
+  background: #06d3ac;
+}
+.border.dark {
+  background: #06d3ac;
+}
